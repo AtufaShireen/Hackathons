@@ -1,0 +1,51 @@
+
+
+TextAnalysis Class:
+
+    For Calculating(9 obj vars):
+    AVG WORD LENGTH
+    PERSONAL PRONOUNS
+    SYLLABLE PER WORD
+    WORD COUNT
+    COMPLEX WORD COUNT
+    AVG NUMBER OF WORDS PER SENTENCE
+    FOG INDEX
+    PERCENTAGE OF COMPLEX WORDS
+    AVG SENTENCE LENGTH
+
+    Required Parameters:
+    link: path to blog Link
+
+    Attributes:
+    text: Scraped article text with title
+
+    Methods:
+    word_count: Returns WORD COUNT
+    avg_word_length: Returns AVG WORD LENGTH
+    personal_pronoun: Returns  PERSONAL PRONOUNS
+    avg_wrd_sent: Returns AVG SENTENCE LENGTH or AVG NUMBER OF WORDS PER SENTENCE
+    syllables_per_wrd: Returns SYLLABLE PER WORD
+    complex_count: Returns COMPLEX WORD COUNT
+    complex_percnt: Returns PERCENTAGE OF COMPLEX WORDS
+    fog_index: Returns FOG INDEX
+
+SentimentAnalysis Class: 
+    For Calculating(4 obj vars):
+    POLARITY SCORE
+    NEGATIVE SCORE
+    POSITIVE SCORE
+    SUBJECTIVE SCORE
+
+    Required Parameters:
+    link: path to blog Link
+    stop_dict_link: path to stop words csv
+    master_dict_link: path to master dictionary(containing pos,neg years)
+
+    Attributes:
+    text: Scraped article text with title
+
+    Methods:
+    pos_neg_counts: Returns POSITIVE SCORE,NEGATIVE SCORE
+    polarity_score: Returns AVG POLARITY SCORE
+    subjective_score: Returns  SUBJECTIVE SCORE
+ 
