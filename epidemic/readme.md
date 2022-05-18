@@ -1,4 +1,4 @@
-# Epidemic: IIT mandi
+# Epidemic: IIT mandi - Epidemology simulation problem.
 Stood 1st position
 
 # PS (stage 1,2,3):
