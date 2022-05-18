@@ -3,11 +3,11 @@ HYPD: product recommendation problem
 (best challenge and startup i would like to work with)
 
 # PS:
-* Design a recommendation engine for the content creators, to recommend products based on their content and elaborate it.
-* Do you think ML is even required in this case.
-* Do you think the given data points are sufficient for building the product recommendation engines for the creators.
-* If you believe additional data points are required to solve the given problems, please list down the data points that you think could be handy. And explain your data collection strategy.
-* Any other thoughts you might want to share.
+1 Design a recommendation engine for the content creators, to recommend products based on their content and elaborate it.
+2 Do you think ML is even required in this case.
+3 Do you think the given data points are sufficient for building the product recommendation engines for the creators.
+4 If you believe additional data points are required to solve the given problems, please list down the data points that you think could be handy. And explain your data collection strategy.
+5 Any other thoughts you might want to share.
 
 # Solution:
 
