@@ -16,3 +16,5 @@ Analysis and Solutions to the hackathons participated
 [epidemic](https://github.com/AtufaShireen/Hackathons/tree/main/epidemic): Epidemology Simulation Problem.
 
 [hypd](https://github.com/AtufaShireen/Hackathons/tree/main/hypd): product recommendation Problem.
+
+[Sentiment Analysis](https://github.com/AtufaShireen/Hackathons/tree/main/sentiment): project submission
