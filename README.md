@@ -5,6 +5,6 @@ Analysis and Solutions to the hackathons participated
 
 [Wells Fargo](https://github.com/AtufaShireen/Hackathons/tree/main/wellsfargo): Time series Problem
 
-[Fun Data Stic](https://github.com/AtufaShireen/Hackathons/blob/main/dashboards_dash/page_images/fulldashboard.jpg): Data Visualization Problem
+[Fun Data Stic](https://github.com/AtufaShireen/Hackathons/tree/main/dashboards_dash): Data Visualization Problem
 
 [Visiob_Verse](https://github.com/AtufaShireen/Hackathons/tree/main/vision_verse): Muliclass Image Classification Problem
