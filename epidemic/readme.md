@@ -1,4 +1,5 @@
 # Epidemic: IIT mandi
+Stood 1st position
 
 # PS (stage 1,2,3):
 * Reduce death retes with not more than 70% reduction from workplaces.
