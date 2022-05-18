@@ -40,7 +40,7 @@ Subjectivity Score = (Positive Score + Negative Score)/ ((Total Words after clea
 * Percentage of Complex words = the number of complex words / the number of words.
 * Fog Index = 0.4 * (Average Sentence Length + Percentage of Complex words).
 
-
+## Remaining
 * Average Number of Words Per Sentence = the total number of words / the total number of sentences.
 * word count: number of words after removing the stop words (using stopwords class of nltk package), removing any punctuations like ? ! ,.
 * Syllables count: counting the vowels present in each word and also handle some exceptions like words ending with "es","ed" by not counting them as a syllable.
