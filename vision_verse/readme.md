@@ -1,4 +1,4 @@
-Vision_Verse: IIT Mandi
+# Vision_Verse: IIT Mandi
 
 Stood 8/16 with approx ~96% accuracy
 
