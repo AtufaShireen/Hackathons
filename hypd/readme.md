@@ -67,7 +67,7 @@ From catalog.json
 
 
 ## 2. ML is required?
-Without ML, we would have been just using tags, and find all the similar products, without even ranking. Therefore when we use ml here, measure the combined distance of the tags provided with the training points, and rank them based on their similarity score.
+Without ML, we would have been just using tags, and find all the similar products, without even ranking. Therefore when we use ml here ( *text retrival using nlp)*, measure the combined distance of the tags provided with the training points, and rank them based on their similarity score.
 
 ## 3,4.  Given Points are enough?
 I guess for the content based filtering, the given data points are enough, when the keywords of the catalog gives the complete description of the product. 
