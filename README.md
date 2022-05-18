@@ -7,7 +7,7 @@ Analysis and Solutions to the hackathons participated
 
 [Fun Data Stic](https://github.com/AtufaShireen/Hackathons/tree/main/dashboards_dash): Data Visualization Problem
 
-[Visiob_Verse](https://github.com/AtufaShireen/Hackathons/tree/main/vision_verse): Muliclass Image Classification Problem
+[Vision_Verse](https://github.com/AtufaShireen/Hackathons/tree/main/vision_verse): Muliclass Image Classification Problem
 
 [conde_nast](https://github.com/AtufaShireen/Hackathons/tree/main/conde_nast): Binary Classification Problem
 
