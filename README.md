@@ -10,3 +10,5 @@ Analysis and Solutions to the hackathons participated
 [Visiob_Verse](https://github.com/AtufaShireen/Hackathons/tree/main/vision_verse): Muliclass Image Classification Problem
 
 [conde_nast](https://github.com/AtufaShireen/Hackathons/tree/main/conde_nast): Binary Classification Problem
+
+[tredence](https://github.com/AtufaShireen/Hackathons/tree/main/tredence): Time Series Classification Problem
