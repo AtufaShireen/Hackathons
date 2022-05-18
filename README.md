@@ -14,3 +14,5 @@ Analysis and Solutions to the hackathons participated
 [tredence](https://github.com/AtufaShireen/Hackathons/tree/main/tredence): Time Series Classification Problem
 
 [epidemic](https://github.com/AtufaShireen/Hackathons/tree/main/epidemic): Epidemology Simulation Problem.
+
+[hypd](https://github.com/AtufaShireen/Hackathons/tree/main/hypd): product recommendation Problem.
