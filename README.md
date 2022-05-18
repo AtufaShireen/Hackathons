@@ -12,3 +12,5 @@ Analysis and Solutions to the hackathons participated
 [conde_nast](https://github.com/AtufaShireen/Hackathons/tree/main/conde_nast): Binary Classification Problem
 
 [tredence](https://github.com/AtufaShireen/Hackathons/tree/main/tredence): Time Series Classification Problem
+
+[epidemic](https://github.com/AtufaShireen/Hackathons/tree/main/epidemic): Epidemology Simulation Problem.
