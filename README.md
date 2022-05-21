@@ -3,7 +3,7 @@ Analysis and Solutions to the hackathons participated
 
 [Weights and Biases](https://github.com/AtufaShireen/Hackathons/tree/main/weights%26Biases): Multiclass Classification Problem
 
-[Wells Fargo](https://github.com/AtufaShireen/Hackathons/tree/main/wellsfargo): Time series Problem
+[Wells Fargo AI hackathon](https://github.com/AtufaShireen/Hackathons/tree/main/wellsfargo): Time series Problem
 
 [Fun Data Stic](https://github.com/AtufaShireen/Hackathons/tree/main/dashboards_dash): Data Visualization Problem
 
@@ -17,4 +17,6 @@ Analysis and Solutions to the hackathons participated
 
 [hypd](https://github.com/AtufaShireen/Hackathons/tree/main/hypd): product recommendation Problem.
 
-[Sentiment Analysis](https://github.com/AtufaShireen/Hackathons/tree/main/sentiment): project submission
+[Sentiment Analysis](https://github.com/AtufaShireen/Hackathons/tree/main/sentiment): sentiment analysis Problem.
+
+[Tamu Datathon](https://github.com/AtufaShireen/Hackathons/tree/main/bloomsberg): Topic Modelling Problem.
