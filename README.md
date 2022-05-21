@@ -1,6 +1,8 @@
 # Hackathons
 Analysis and Solutions to the hackathons participated
 
+[cascade cup](https://github.com/AtufaShireen/Hackathons/tree/main/cascade_cup): Unbalanced Classification Problem
+
 [Weights and Biases](https://github.com/AtufaShireen/Hackathons/tree/main/weights%26Biases): Multiclass Classification Problem
 
 [Wells Fargo AI hackathon](https://github.com/AtufaShireen/Hackathons/tree/main/wellsfargo): Time series Problem
