@@ -1,6 +1,6 @@
 IIT - Guwahati : Cascade Cup
 
-# Problem Statement
+# Problem Statement - Unbalanced Classification Problem
 ### Rider Driver Cancellation
 Given the order and rider details as described, create a model that can predict rider-driven cancellation in advance (i.e. before getting marked as cancelled or delivered)
 
