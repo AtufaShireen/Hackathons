@@ -1,7 +1,5 @@
 HYPD: product recommendation problem 
 
-(best challenge and startup i would like to work with)
-
 # PS:
 1 Design a recommendation engine for the content creators, to recommend products based on their content and elaborate it.
 
