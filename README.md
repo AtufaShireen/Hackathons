@@ -5,7 +5,7 @@ Analysis and Solutions to the hackathons participated,  (datasets will not be up
 
 [Weights and Biases](https://github.com/AtufaShireen/Hackathons/tree/main/weights%26Biases): Multiclass Classification Problem
 
-[Wells Fargo AI hackathon](https://github.com/AtufaShireen/Hackathons/tree/main/wellsfargo): Time series Problem
+[Forecasting Volatility Surface dynamics](https://github.com/AtufaShireen/Hackathons/tree/main/wellsfargo): Multivariate Time series Problem
 
 [Fun Data Stic](https://github.com/AtufaShireen/Hackathons/tree/main/dashboards_dash): Data Visualization Problem
 
@@ -13,7 +13,7 @@ Analysis and Solutions to the hackathons participated,  (datasets will not be up
 
 [conde_nast](https://github.com/AtufaShireen/Hackathons/tree/main/conde_nast): Binary Classification Problem
 
-[tredence](https://github.com/AtufaShireen/Hackathons/tree/main/tredence): Time Series Classification Problem
+[tredence](https://github.com/AtufaShireen/Hackathons/tree/main/tredence): Time Series Problem
 
 [epidemic](https://github.com/AtufaShireen/Hackathons/tree/main/epidemic): Epidemology Simulation Problem.
 
