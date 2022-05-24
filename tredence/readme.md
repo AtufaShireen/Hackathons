@@ -16,5 +16,6 @@ Forecast warehouses weekly demand for next 2 months with the given 3 years of da
 * with above analysis reduced the number of features for training.
 * used auto and partial correlation to decide the number of lags or size of window for previous data.
 * used OHE for month and product type.
-* Used LSTMs for training multivariate time series model for each of the warehouse.
+* Used LSTMs for training multivariate time series model for each of the warehouse and forecasted daily dispatch count.
+* Aggregated daily disaptch counts for returning weekly dispatch count.
 * Combined each warehouse back with index.
