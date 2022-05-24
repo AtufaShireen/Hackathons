@@ -13,7 +13,7 @@ Analysis and Solutions to the hackathons participated,  (datasets will not be up
 
 [conde_nast](https://github.com/AtufaShireen/Hackathons/tree/main/conde_nast): Binary Classification Problem
 
-[tredence](https://github.com/AtufaShireen/Hackathons/tree/main/tredence): Time Series Problem
+[Forecast Weekly Dispatch Rate](https://github.com/AtufaShireen/Hackathons/tree/main/tredence): Time Series Problem
 
 [epidemic](https://github.com/AtufaShireen/Hackathons/tree/main/epidemic): Epidemology Simulation Problem.
 
