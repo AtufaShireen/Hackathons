@@ -58,5 +58,6 @@ The active participation of OCC agency can be observed during this period.
 ## Improvements
 * Although with manual check few common paragraphs such as detailing guidelines were removed, further reduction of more common paragraphs can improve the result.
 * Taking few or one year (~600 docs for covid) at a time shows more accurate topic details than taking 9 topics at a time(~ 1600 docs for obama admin).
+* Also Clustering large datasets (for ex with hdbscan) and performing topic modelling for each of the cluster will reduce the corpus as well as retain the information. 
 * For convenience, paragraphs with >300 length was observed, further reducing this length can also show improvement in topics.
 
