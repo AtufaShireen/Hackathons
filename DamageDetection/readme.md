@@ -1,5 +1,8 @@
 # Damage Detection
 
+PPT Version: https://github.com/AtufaShireen/Hackathons/tree/main/DamageDetection
+
+
 ## Data Preparation
 1. For Handling Imbalanced Dataset
     * performed flips on existing class images with less quantity
