@@ -1,6 +1,6 @@
 # Damage Detection
 
-PPT Version: https://github.com/AtufaShireen/Hackathons/tree/main/DamageDetection
+PPT Version: https://docs.google.com/presentation/d/1N1J-UmtQvZg6-wpb5Gp1YNR2BRuheUIafelW82E8Dks/edit?usp=sharing
 
 
 ## Data Preparation
