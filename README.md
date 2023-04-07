@@ -13,7 +13,7 @@ Analysis and Solutions to the hackathons participated,  (datasets will not be up
 
 [Fun Data Stic](https://github.com/AtufaShireen/Hackathons/tree/main/dashboards_dash): Data Visualization Problem
 
-[Ford Motoras]](https://github.com/AtufaShireen/Hackathons/tree/main/ford_challenge): Document classification Problem
+[Ford Motoras](https://github.com/AtufaShireen/Hackathons/tree/main/ford_challenge): Document classification Problem
 
 [Vision_Verse](https://github.com/AtufaShireen/Hackathons/tree/main/vision_verse): Muliclass Image Classification Problem
 
