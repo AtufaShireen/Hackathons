@@ -1,7 +1,7 @@
 # Hackathons
 Analysis and Solutions to the hackathons participated,  (datasets will not be uploaded).
 
-[Smartathon, SDAIA] (https://github.com/AtufaShireen/Hackathons/tree/main/smartathon) : Object detection with yolo
+[Smartathon, SDAIA](https://github.com/AtufaShireen/Hackathons/tree/main/smartathon) : Object detection with yolo
 
 [Yozu Hack](https://github.com/AtufaShireen/Hackathons/tree/main/QandA_pair_evaluation): Classification using transformers
 
