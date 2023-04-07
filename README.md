@@ -1,6 +1,8 @@
 # Hackathons
 Analysis and Solutions to the hackathons participated,  (datasets will not be uploaded).
 
+[Yozu Hack](https://github.com/AtufaShireen/Hackathons/tree/main/QandA_pair_evaluation): Classification using transformers
+
 [cascade cup](https://github.com/AtufaShireen/Hackathons/tree/main/cascade_cup): Unbalanced Classification Problem
 
 [Weights and Biases](https://github.com/AtufaShireen/Hackathons/tree/main/weights%26Biases): Multiclass Classification Problem
