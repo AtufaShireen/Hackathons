@@ -33,6 +33,6 @@ Analysis and Solutions to the hackathons participated,  (datasets will not be up
 
 [Pi School](https://github.com/AtufaShireen/Hackathons/tree/main/movies_data_classification): Categorising movies data.
 
-[Zypp] (): Designing a dashboard for trip monitoring.
+[Zypp] (https://github.com/AtufaShireen/Hackathons/tree/main/zypp): Designing a dashboard for trip monitoring.
 
 
