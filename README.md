@@ -13,15 +13,15 @@ Analysis and Solutions to the hackathons participated,  (datasets will not be up
 
 [Fun Data Stic](https://github.com/AtufaShireen/Hackathons/tree/main/dashboards_dash): Data Visualization Problem
 
-[Ford Motoras](https://github.com/AtufaShireen/Hackathons/tree/main/ford_challenge): Document classification Problem
+[Ford Motors](https://github.com/AtufaShireen/Hackathons/tree/main/ford_challenge): Document classification Problem
 
 [Vision_Verse](https://github.com/AtufaShireen/Hackathons/tree/main/vision_verse): Muliclass Image Classification Problem
 
 [conde_nast](https://github.com/AtufaShireen/Hackathons/tree/main/conde_nast): Binary Classification Problem
 
-[Forecast Weekly Dispatch Rate](https://github.com/AtufaShireen/Hackathons/tree/main/tredence): Time Series Problem
+[Tredence](https://github.com/AtufaShireen/Hackathons/tree/main/tredence): Time Series Forecast Weekly Dispatch Rate Problem
 
-[epidemic](https://github.com/AtufaShireen/Hackathons/tree/main/epidemic): Epidemology Simulation Problem.
+[IIT Mandi](https://github.com/AtufaShireen/Hackathons/tree/main/epidemic): Epidemology Simulation Problem.
 
 [hypd](https://github.com/AtufaShireen/Hackathons/tree/main/hypd): product recommendation Problem.
 
@@ -31,4 +31,8 @@ Analysis and Solutions to the hackathons participated,  (datasets will not be up
 
 [Pandora Box](https://github.com/AtufaShireen/Hackathons/tree/main/pandorabox): App Recommedation For New and Existing Users.
 
-[Fellowship Assessment](https://github.com/AtufaShireen/Hackathons/tree/main/movies_data_classification): Categorising movies data.
+[Pi School](https://github.com/AtufaShireen/Hackathons/tree/main/movies_data_classification): Categorising movies data.
+
+[Zypp] (): Designing a dashboard for trip monitoring.
+
+
